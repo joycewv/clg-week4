@@ -1,0 +1,41 @@
+#mainContainer {
+    border: 5px solid Violet;
+    background-image: url('/strawberrysmall.png');
+    background-repeat: repeat;
+    background-position: right;
+    background-size: contain;
+}
+
+.whatEver {
+    color: greenyellow;
+    font-weight: bold;
+}
+
+#Container {
+    border: 10px solid teal;
+    background-color: springgreen;
+}
+
+.CLG {
+    color: #8A2BE2;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+.SContainer {
+    border: 5px solid lightskyblue;
+    padding: 50px solid lightseagreen;
+    background-color: lightpink;
+    background-image: url('/lemonsmall.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: contain;
+}
+
+.why {
+    color: red;
+}
+
+span {
+    color: cornflowerblue
+}
